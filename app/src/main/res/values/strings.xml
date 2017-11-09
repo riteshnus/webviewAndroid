@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TAYO</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_login_heading">Welcome on Tayo.casa!</string>
+    <string name="login">LOGIN</string>
+</resources>
